@@ -7,11 +7,11 @@
 
 ![](docs/cap2.png)
 
-#### 3-Instalar tailwind -Instalar shadcn
+#### 3-Instalar tailwind 
 
 ![](docs/cap3.png)
 
-#### 4- Configurar alias - 
+#### 4- Configurar alias - -Instalar shadcn
 
 ![](docs/cap4.png)
 
